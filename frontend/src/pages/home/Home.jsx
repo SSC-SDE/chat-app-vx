@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="flex sm:h-[450px] md:h-[550px] rounded-lg overflow-hiddenw-full p-6 shadow-md glass-effect">
       <Sidebar />
-      {/* <MessageContainer /> */}
+      <MessageContainer />
     </div>
   );
 };
