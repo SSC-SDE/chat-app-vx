@@ -9,7 +9,7 @@ export default defineConfig({
     port: 3000,
     proxy: {
       "/api": {
-        target: "http://localhost:5000",
+        target: "https://chat-app-prod-0tz8.onrender.com/",
       }
     }
   }
