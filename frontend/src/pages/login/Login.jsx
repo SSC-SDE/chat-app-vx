@@ -22,7 +22,7 @@ export const Login = () => {
       <div className="w-full p-6 rounded-lg shadow-md glass-effect">
         <h1 className="text-3xl font-semibold text-center text-gray-300">
           Login
-          <span className="text-blue-200">ChatApp</span>
+          <span className="text-blue-200">Cascades</span>
         </h1>
 
         <form onSubmit={handeSubmit}>
